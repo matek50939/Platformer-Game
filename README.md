@@ -1,1 +1,1 @@
-This is the git to my platformer game in python. You can use "a" and "d" to move horizontaly and "w" to jump. For every ledge you jump on you get a point. Try not to fall! Have fun!
+This is the git to my platformer game in python. You can use "a" and "d" to move horizontaly and "w" to jump. For every ledge you jump on you get a point. To play visit the link on itch io or just take it from here https://matek50939.itch.io/platformer-game Try not to fall! Have fun!
